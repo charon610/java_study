@@ -1,0 +1,12 @@
+package daily0510;
+
+import java.util.Scanner;
+
+public class Max2B {
+
+	public static void main(String[] args) {
+		Scanner std = new Scanner(System.in);
+		
+	}
+
+}

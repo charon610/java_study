@@ -1,0 +1,13 @@
+package daily0509;
+
+import java.util.Scanner;
+
+public class Grade1 {
+
+	public static void main(String[] args) {
+		Scanner stdIn = new Scanner(System.in);
+		System.out.println("점수를 입력하세요 : ");
+		int n = stdIn.nextInt();
+	}
+
+}
