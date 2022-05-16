@@ -21,7 +21,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
 			<item value="D:\PSW\java_data"/>
+=======
+>>>>>>> e95b97f18f8059762dd4238739c077b5690a10eb
 			<item value="D:\psw_data\Java_data"/>
 			<item value="D:\PSW\java_data\BitBox-master"/>
 			<item value="D:\PSW\java_data\reservation_ticket-master"/>
