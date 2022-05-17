@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 !SESSION 2022-05-17 09:22:46.269 -----------------------------------------------
+=======
+!SESSION 2022-05-16 22:51:43.895 -----------------------------------------------
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
 !SESSION 2022-05-16 22:51:43.895 -----------------------------------------------
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
@@ -11,10 +15,13 @@ Framework arguments:  -product org.eclipse.epp.package.jee.product
 Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a continuation of log file D:\PSW\java_data\.metadata\.bak_0.log
 Created Time: 2022-05-17 11:34:13.924
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 This is a continuation of log file D:\psw_data\Java_data\.metadata\.bak_0.log
 Created Time: 2022-05-16 23:06:33.647
 
