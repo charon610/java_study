@@ -6,7 +6,11 @@ public class Result {
 		int n[] = { 1, 2, 3, 4, 5 };
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		String name[] = { "문재인", "윤석열", "김정은", "홍준표", "박근혜" };
+=======
+		String name[] = { "aaa", "bbb", "ccc", "ddd", "eee" };
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
 		String name[] = { "aaa", "bbb", "ccc", "ddd", "eee" };
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
@@ -21,8 +25,12 @@ public class Result {
 		int rank[] = new int[5];
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		double avg[] = new double [5];
 		
+=======
+
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
 
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
@@ -37,11 +45,14 @@ public class Result {
 		for (int i = 0; i < n.length; i++) {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 			avg[i]= (double) sum[i]/3;
 		
 		}
 		
 		for (int i = 0; i < n.length; i++) {
+=======
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
@@ -55,6 +66,7 @@ public class Result {
 		
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println("                               <성   적   표>                                      ");
 		System.out.println("================================================================================");
 		System.out.println(
@@ -66,6 +78,8 @@ public class Result {
 =======
 =======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
+=======
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 		System.out.println(
 				"번호" + "\t" + "이름" + "\t" + "국어" + "\t" + "영어" + "\t" + "수학" + "\t" + "총점" + "\t" + "학점" + "\t" + "등수");
 
@@ -73,6 +87,9 @@ public class Result {
 
 			switch (sum[i] / 30) {
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
+=======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
@@ -95,6 +112,7 @@ public class Result {
 		
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 		System.out.println(n[i] + "\t" + name[i] + "\t" + kuk[i] + "\t" + eng[i] + "\t" + mat[i] + "\t" + sum[i] +  "\t" + String.format("%.1f", avg[i]) + "\t"
 				+ myGrade + "\t" + rank[i]);
 
@@ -103,11 +121,16 @@ public class Result {
 =======
 =======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
+=======
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 		System.out.println(n[i] + "\t" + name[i] + "\t" + kuk[i] + "\t" + eng[i] + "\t" + mat[i] + "\t" + sum[i] + "\t"
 				+ myGrade + "\t" + rank[i]);
 
 	}
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
+=======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
 =======
 >>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
