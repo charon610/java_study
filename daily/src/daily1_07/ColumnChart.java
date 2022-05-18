@@ -19,9 +19,9 @@ public class ColumnChart {
 		for (int i = 10; i >= 1; i--) {
 			for (int j = 0; j < n; j++)
 				if (a[j]>=i)
-					System.out.print("*");
+					System.out.print("* ");
 				else
-					System.out.print(" ");
+					System.out.print("  ");
 			System.out.println();
 		}
 		

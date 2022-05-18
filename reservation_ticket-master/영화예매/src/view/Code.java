@@ -14,7 +14,6 @@ public interface Code {
 		static final int USER_MENU_LOGIN = 299; //회원 로그인
 		
 		
-		
 		static final int USER_TICKET_LIST = 220; //영화예매 리스트
 		static final int USER_TICKET_ADD = 221; //영화예매 하기
 		static final int USER_TICKET_DEL = 222; //영화예매 취소

@@ -1,60 +1,18 @@
-<<<<<<< HEAD
 INDEX VERSION 1.131+D:\PSW\java_data\.metadata\.plugins\org.eclipse.jdt.core
 3922113046.index
 2663481984.index
 10819363.index
-=======
-INDEX VERSION 1.131+D:\psw_data\Java_data\.metadata\.plugins\org.eclipse.jdt.core
-2663481984.index
-<<<<<<< HEAD
-10819363.index
 4150893155.index
 2920626587.index
-2512801734.index
+1265479200.index
 130601786.index
 3271193799.index
 2578204313.index
-2007115701.index
-=======
-3922113046.index
-3271193799.index
-<<<<<<< HEAD
-<<<<<<< HEAD
-1878056684.index
-=======
-=======
->>>>>>> 459bf337bd04c5d712ce156ddd490e67dd418c82
->>>>>>> e95b97f18f8059762dd4238739c077b5690a10eb
-2184263000.index
->>>>>>> 459bf337bd04c5d712ce156ddd490e67dd418c82
-4004214287.index
-<<<<<<< HEAD
-1724970976.index
-=======
-2007115701.index
 2512801734.index
->>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
-4150893155.index
-2512801734.index
-2920626587.index
-130601786.index
-2578204313.index
-3271193799.index
 2007115701.index
+1775555309.index
 2184263000.index
 4219279280.index
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 4004214287.index
 2115267486.index
 1724970976.index
-=======
->>>>>>> e95b97f18f8059762dd4238739c077b5690a10eb
->>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
-=======
->>>>>>> e95b97f18f8059762dd4238739c077b5690a10eb
->>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
-=======
->>>>>>> e95b97f18f8059762dd4238739c077b5690a10eb
->>>>>>> ac86093195523886c551dfac2e155f3dcf284e59
