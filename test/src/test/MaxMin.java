@@ -8,7 +8,11 @@ public class MaxMin {
 
 		for (int i = 0; i < score.length; i++) {
 			rank[i] = 1;
+<<<<<<< HEAD
+			for (int j = 0; j < score.length; j++) {
+=======
 			for (int j = 0; j < score.length; i++) {
+>>>>>>> 044cd740b06f814b0f6ed049e1d2ab2ff2246a27
 				if (score[i] < score[j])
 					rank[i] += 1;
 			}
