@@ -1,37 +1,20 @@
-INDEX VERSION 1.131+D:\psw_data\Java_data\.metadata\.plugins\org.eclipse.jdt.core
+INDEX VERSION 1.131+D:\PSW\java_data\.metadata\.plugins\org.eclipse.jdt.core
+3922113046.index
 2663481984.index
-<<<<<<< HEAD
-<<<<<<< HEAD
 10819363.index
 4150893155.index
 2920626587.index
 2512801734.index
 130601786.index
 3271193799.index
+168336843.index
 2578204313.index
-1265479200.index
 2007115701.index
 1775555309.index
 1729059551.index
+1265479200.index
+2184263000.index
 4219279280.index
-=======
-3922113046.index
-3271193799.index
-2184263000.index
-1878056684.index
->>>>>>> bf130b5ade86e4ec8fa7bdc954f4d2c1c603a386
-=======
-3922113046.index
-3271193799.index
-2184263000.index
-1878056684.index
->>>>>>> bf130b5ade86e4ec8fa7bdc954f4d2c1c603a386
 4004214287.index
-2007115701.index
-2512801734.index
-4150893155.index
-130601786.index
-2578204313.index
-10819363.index
+2115267486.index
 1724970976.index
-4219279280.index
