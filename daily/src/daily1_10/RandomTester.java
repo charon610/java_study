@@ -1,11 +1,25 @@
 package daily1_10;
 
-public class RandomTester {
+import java.util.Random;
+import java.util.Scanner;
 
-	public static void main(String[] args) {
-		static int randomNum(int a, int b) {
-			rand = 
+public class RandomTester {
+	static int randomNum(int a, int b) {
+		if (b <= a)
+			return a;
+		else {
+			Random rand = new Random();
+			return a + rand.nextInt(b - a + 1);
 		}
 	}
 
+	public static void main(String[] args) {
+		Scanner stdIn = new Scanner(System.in);
+		
+		System.out.println("난수를 생성");
+		System.out.print("하한값 : "); int min = stdIn.nextInt();
+		System.out.print("상한값 : "); int max = stdIn.nextInt();
+		
+		System.out.println("생성한 난수는 " + randomNum(min, max) + "입니다.");
+	}
 }
