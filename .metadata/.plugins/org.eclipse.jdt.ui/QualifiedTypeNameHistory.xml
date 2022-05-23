@@ -21,4 +21,5 @@
     <fullyQualifiedTypeName name="p1020.FileOutputStreamExample"/>
     <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>
