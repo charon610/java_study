@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Gugudan {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		Scanner scan = new Scanner(System.in);
 		while (true) {
 			System.out.print("몇단의 구구단을 출력할까요? :");
@@ -22,5 +22,4 @@ public class Gugudan {
 			}
 		}
 	}
-
 }

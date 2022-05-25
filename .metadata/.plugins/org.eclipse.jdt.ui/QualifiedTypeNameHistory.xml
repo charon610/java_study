@@ -12,7 +12,6 @@
     <fullyQualifiedTypeName name="p1020.FileInputStreamExample"/>
     <fullyQualifiedTypeName name="p1020.FileReaderExample"/>
     <fullyQualifiedTypeName name="java.io.FileReader"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.io.FileWriter"/>
     <fullyQualifiedTypeName name="p1020.InputStreamReaderExample"/>
     <fullyQualifiedTypeName name="java.io.InputStream"/>
@@ -22,4 +21,9 @@
     <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="daily1_13.Human"/>
+    <fullyQualifiedTypeName name="daily1_13.Human1"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="daily1_13.Car"/>
 </qualifiedTypeNameHistroy>
