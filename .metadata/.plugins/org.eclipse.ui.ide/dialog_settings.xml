@@ -19,6 +19,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\PSW\java_data\daily\src\daily1_07"/>
 			<item value="D:\PSW\java_data"/>
 			<item value="D:\psw_data\Java_data"/>
 		</list>

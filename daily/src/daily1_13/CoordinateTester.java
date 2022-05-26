@@ -36,4 +36,3 @@ public class CoordinateTester {
 			System.out.println("a[" + i + "]=" + a[i]);
 	}
 }
-}

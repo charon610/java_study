@@ -21,9 +21,20 @@
     <fullyQualifiedTypeName name="java.io.OutputStreamWriter"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="daily1_13.Human"/>
     <fullyQualifiedTypeName name="daily1_13.Human1"/>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="daily1_13.Car"/>
+    <fullyQualifiedTypeName name="daily1_13.Coordinate"/>
+    <fullyQualifiedTypeName name="p659.Product"/>
+    <fullyQualifiedTypeName name="p658.Box"/>
+    <fullyQualifiedTypeName name="p662.Pair"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="p666.Person"/>
+    <fullyQualifiedTypeName name="p666.Student"/>
+    <fullyQualifiedTypeName name="daily1_14.Period"/>
+    <fullyQualifiedTypeName name="daily1_14.Day"/>
+    <fullyQualifiedTypeName name="daily1_13.Human"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.css.Counter"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
