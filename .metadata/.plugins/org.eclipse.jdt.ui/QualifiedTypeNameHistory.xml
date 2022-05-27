@@ -32,9 +32,17 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="p666.Person"/>
     <fullyQualifiedTypeName name="p666.Student"/>
-    <fullyQualifiedTypeName name="daily1_14.Period"/>
     <fullyQualifiedTypeName name="daily1_14.Day"/>
     <fullyQualifiedTypeName name="daily1_13.Human"/>
     <fullyQualifiedTypeName name="org.w3c.dom.css.Counter"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ex05.Car"/>
+    <fullyQualifiedTypeName name="p685.MyFunctionalInterface"/>
+    <fullyQualifiedTypeName name="p685.UsingThis"/>
+    <fullyQualifiedTypeName name="p687.MyFunctionalInterface"/>
+    <fullyQualifiedTypeName name="p687.UsingLocalVariable"/>
+    <fullyQualifiedTypeName name="p682.MyFunctionalInterface"/>
+    <fullyQualifiedTypeName name="daily1_15.MinMaxTester"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+    <fullyQualifiedTypeName name="daily1_14.Period"/>
 </qualifiedTypeNameHistroy>
