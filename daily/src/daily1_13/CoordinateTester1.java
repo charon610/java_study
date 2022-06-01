@@ -13,7 +13,7 @@ public class CoordinateTester1 {
 		Coordinate p = new Coordinate(x, y);
 		System.out.println("p = (" + p.getX() + ", " + p.getY() + ")");
 		Coordinate q = p;
-		q.setX(9.9, 9.9);
+		q.set(9.9, 9.9);
 		System.out.println("p = (" + p.getX() + ", " + p.getY() + ")");
 		System.out.println("q = (" + q.getX() + ", " + q.getY() + ")");
 
