@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Test04 {
 
 	   static void arg(String[] a){
-	        System.out.println("입력된 값의 수 = "+a.length);
+	        System.out.print("입력된 값의 수 = "+a.length);
 	        for(int i=0;i<a.length;i++) {
 	            System.out.print((i+1)+"번째 값 : "+a[i]+" ");
 	        }
